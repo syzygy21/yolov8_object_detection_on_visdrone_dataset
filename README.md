@@ -14,4 +14,4 @@ The following images show the inference results during testing
 The project was extended into a tracking algorithm by using the BotSort tracker. The following GIF shows the impressive tracking results.
 
 
-![annotated_video](https://github.com/user-attachments/assets/92ea1461-2d40-4d82-b321-272de602a03a)
+![annotated_video](https://github.com/user-attachments/assets/46fe9111-5123-462e-90bd-ec6997c55dc8)
